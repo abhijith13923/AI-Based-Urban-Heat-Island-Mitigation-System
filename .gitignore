@@ -34,7 +34,8 @@ media/
 staticfiles/
 
 # Node / React
-node_modules/
+# Node
+frontend/node_modules/
 build/
 
 # Jupyter
